@@ -19,6 +19,7 @@ Github : https://github.com/2023-Together/Together_Dev_Flutter<br>
   <li>flutter_secure_storage를 사용하여 암호화된 사용자 기능 구현</li>
   <li>flutter_naver_login을 통해 외부 로그인 api 적용</li>
   <li>커뮤니티 게시판을 NestedScrollView를 사용하여 Customize한 스크롤 구현</li>
+  <li>서버와의 연계로 스크롤 페이지네이션 구현</li>
   <li>여러명이서 branch를 사용하여 프로젝트 관리</li>
 </ul>
 
