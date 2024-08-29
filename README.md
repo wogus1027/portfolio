@@ -11,12 +11,14 @@ Tel : 010-4904-9191
 참여대회 : ICT 한이음 멘토링 참여<br>
 Github : https://github.com/2023-Together/Together_Dev_Flutter<br>
 <hr>
-- 팀원 전체가 참여한 디자인 스프린트를 사용하여 단시간에 빠른 화면계획서 작성
-- 상태관리를 getX에서 provider로 대체함으로써 상태관리 기능 최적화
-- flutter_secure_storage를 사용하여 암호화된 사용자 기능 구현
-- flutter_naver_login을 통해 외부 로그인 api 적용
-- 커뮤니티 게시판을 NestedScrollView를 사용하여 Customize한 스크롤 구현
-- 여러명이서 branch를 사용하여 프로젝트 관리
+<ul>
+  <li>팀원 전체가 참여한 디자인 스프린트를 사용하여 단시간에 빠른 화면계획서 작성</li>
+  <li>상태관리를 getX에서 provider로 대체함으로써 상태관리 기능 최적화</li>
+  <li>flutter_secure_storage를 사용하여 암호화된 사용자 기능 구현</li>
+  <li>flutter_naver_login을 통해 외부 로그인 api 적용</li>
+  <li>커뮤니티 게시판을 NestedScrollView를 사용하여 Customize한 스크롤 구현</li>
+  <li>여러명이서 branch를 사용하여 프로젝트 관리</li>
+</ul>
 
 ## Mariner
 ![스크린샷 2024-08-29 093948](https://github.com/user-attachments/assets/e6c45015-a1b9-4528-b718-78c21277fbdf)
