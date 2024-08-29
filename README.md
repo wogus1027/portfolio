@@ -41,7 +41,7 @@ Github : https://github.com/SWAG-2023ICT/marine_front
 ## have-a-meal
 ![164125972](https://github.com/user-attachments/assets/fc85329e-c833-488a-b263-e335201e25c3)
 
-프로젝트 설명 : 학교에서 키오스크에서 구매하는 학식권을 모바일에서 구매하고 이를 인증할 수 있는 프로그램
+프로젝트 설명 : 학교에서 키오스크에서 구매하는 학식권을 모바일에서 구매하고 이를 인증할 수 있는 프로그램<br>
 기간 : 2023.08 - 2023.12<br>
 참여대회 : 연암공과대학교 캡스톤디자인 경진대회 참여<br>
 Github(사용자-앱) : https://github.com/have-a-meal/mobile_user_have_a_meal<br>
