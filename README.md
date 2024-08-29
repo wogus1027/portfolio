@@ -8,7 +8,7 @@ Tel : 010-4904-9191
 ## 함께해요! Together!
 ![스크린샷 2024-08-29 092635](https://github.com/user-attachments/assets/aa8fbe88-4285-4ceb-afc9-d4cc9448ef9c)
 
-프로젝트 설명 : 봉사활동에 대한 정보수집이 어려운 사람들이 정보를 공유하고 쉽게 신청이 가능하도록 연결하는 커뮤니티앱
+프로젝트 설명 : 봉사활동에 대한 정보수집이 어려운 사람들이 정보를 공유하고 쉽게 신청이 가능하도록 연결하는 커뮤니티앱<br>
 기간 : 2023.04 - 2023.12<br>
 참여대회 : ICT 한이음 멘토링, 경남 창업 CORN 콘테스트, 연암공과대학교 캡스톤디자인 경진대회 참여<br>
 Github : https://github.com/2023-Together/Together_Dev_Flutter<br>
@@ -26,7 +26,7 @@ Github : https://github.com/2023-Together/Together_Dev_Flutter<br>
 ## Mariner
 ![스크린샷 2024-08-29 093948](https://github.com/user-attachments/assets/e6c45015-a1b9-4528-b718-78c21277fbdf)
 
-프로젝트 설명 : 사용자와 수산물 가게를 연결한 마켓플레이스 플랫폼
+프로젝트 설명 : 사용자와 수산물 가게를 연결한 마켓플레이스 플랫폼<br>
 기간 : 2023.08 - 2023.12<br>
 참여대회 : 경남소프트웨어경진대회 참여<br>
 Github : https://github.com/SWAG-2023ICT/marine_front
