@@ -1,2 +1,4 @@
-# portfolio
-프론트엔드 개발자 이재현의 포트폴리오입니다.
+# 안녕하세요, 노력하는 개발자 이재현입니다.
+Github : 
+Email : dlwogus1027@naver.com
+Tel : 010-4904-9191
