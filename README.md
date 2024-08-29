@@ -1,7 +1,6 @@
 # 안녕하세요, 노력하는 개발자 이재현입니다.
 Github : https://github.com/wogus1027<br><br>
 Email : dlwogus1027@naver.com<br><br>
-Tel : 010-4904-9191
 
 # Flutter Projects
 ## 함께해요! Together!
@@ -21,6 +20,7 @@ Github : https://github.com/2023-Together/Together_Dev_Flutter<br>
   <li>서버와의 연계로 스크롤 페이지네이션 구현</li>
   <li>여러명이서 branch를 사용하여 프로젝트 관리</li>
 </ul>
+느낀점 : 첫 단체프로젝트 였다보니 멘토의 조언에 많이 의지하게 되었기도 하고 ICT 한이음 멘토링에서 애자일 방법론을 추천해서 새로운 방식을 많이 사용해보았는데 팀원들 간의 의사소통 차이를 디자인 스프린트 같은 방법을 사용해서 의견을 통합할수 있도록 할 수 있다는 것을 새롭게 느꼈습니다.
 
 ## Mariner
 ![스크린샷 2024-08-29 093948](https://github.com/user-attachments/assets/e6c45015-a1b9-4528-b718-78c21277fbdf)
@@ -36,6 +36,7 @@ Github : https://github.com/SWAG-2023ICT/marine_front
   <li>provider를 사용하여 상태관리 기능 구현</li>
   <li>DB에 이미지가 저장될수 있게 Parshing 하는 작업 추가</li>
 </ul>
+느낀점 : 사용자(유저/가게)별로 UI를 각각 따로 구성한다는 것 자체가 새로운 시도 였고 프로젝트 구조 자체도 복잡해 졌지만 최대한 구조 최적화를 시도해보는 경험을 가질 수 있었습니다.
 
 ## have-a-meal
 ![164125972](https://github.com/user-attachments/assets/fc85329e-c833-488a-b263-e335201e25c3)
@@ -54,3 +55,4 @@ Github(관리자-윈도우) : https://github.com/have-a-meal/window_admin_have_a
   <li>qr_code_scanner을 사용하여 QR 생성및 스캔 기능 제작</li>
   <li>Github에서 Issues 기능을 사용하여 백엔드 구성원과의 소통 강화</li>
 </ul>
+느낀점 : 처음에는 사용자와 관리자의 앱을 통합하여 개발할 예정이었지만 계획의 차질로 인해 분리하여 개발하게 되었고 이에 대한 문제점을 Github의 이슈를 통하여 팀원과 공유하면서 개발해볼수 있게 되었습니다.
