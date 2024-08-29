@@ -43,9 +43,9 @@ Github : https://github.com/SWAG-2023ICT/marine_front
 프로젝트 설명 : 학교에서 키오스크에서 구매하는 학식권을 모바일에서 구매하고 이를 인증할 수 있는 프로그램
 기간 : 2023.08 - 2023.12<br>
 참여대회 : 연암공과대학교 캡스톤디자인 경진대회 참여<br>
-Github(사용자-앱) : https://github.com/have-a-meal/mobile_user_have_a_meal
-Github(관리자-앱) : https://github.com/have-a-meal/mobile_admin_have_a_meal
-Github(관리자-윈도우) : https://github.com/have-a-meal/window_admin_have_a_meal
+Github(사용자-앱) : https://github.com/have-a-meal/mobile_user_have_a_meal<br>
+Github(관리자-앱) : https://github.com/have-a-meal/mobile_admin_have_a_meal<br>
+Github(관리자-윈도우) : https://github.com/have-a-meal/window_admin_have_a_meal<br>
 <ul>
   <li>Rest api를 통한 Spring 서버와의 연결</li>
   <li>사용자 각각의 기능을 앱/윈도우로 구현</li>
