@@ -1,7 +1,6 @@
 # 안녕하세요, 노력하는 개발자 이재현입니다.
 Github : https://github.com/wogus1027<br><br>
 Email : dlwogus1027@naver.com<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wogus1027)](https://github.com/wogus1027/github-readme-stats)
 
 # Flutter Projects
 ## 함께해요! Together!
